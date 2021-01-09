@@ -1,0 +1,10 @@
+Error: Attempt to use non-existent command
+Error: Attempt to use non-existent command
+Error: Add command need Integer not Double
+Error: Attempt to remove non-existent movie
+Error: Remove command need Integer not Double
+Error: Attempt to remove movie while there are rented copies
+Error: Attempt to rent non-existent movie
+Error: attempt to rent movie when none are available
+Error: Attempt to return non-existent movie
+Error: attempt to return movie when none are rented

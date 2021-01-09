@@ -1,0 +1,11 @@
+Title               Available           Rented
+----------------------------------------------
+Astro Boy           9                   0
+Chuckie             4                   0
+Inception           5                   1
+Madagascar          1                   0
+Spirited Away       10                  0
+Terminator          4                   0
+Titanic             8                   0
+Toy Story           2                   0
+UP                  0                   1
